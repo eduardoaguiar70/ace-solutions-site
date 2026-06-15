@@ -12,6 +12,7 @@ function Navbar() {
     { path: '/', label: 'Home' },
     { path: '/#servicos', label: 'Serviços' },
     { path: '/#como-funciona', label: 'Como Funciona' },
+    { path: '/#quem-somos', label: 'Quem Somos' },
     { path: '/#faq', label: 'FAQ' },
   ]
 
