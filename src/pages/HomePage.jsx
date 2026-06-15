@@ -55,7 +55,7 @@ function HomePage() {
 
     useEffect(() => {
         if (!heroVisible) return
-        const targets = { a: 500, b: 85, c: 150 }
+        const targets = { a: 100, b: 85, c: 20 }
         const duration = 1800
         const steps = 60
         let step = 0
@@ -277,7 +277,7 @@ function HomePage() {
                             <div className="founder-quote-block">
                                 <Quote size={26} className="founder-quote-icon" aria-hidden="true" />
                                 <p className="founder-quote-text">
-                                    Meu trabalho não é vender teorias, é resolver gargalos operacionais. Como desenvolvedor de sistemas, já estruturei fluxos de automação e introduzi agentes de IA na operação de mais de 20 negócios. Eu construo a inteligência nos bastidores para que a sua equipe pare de fazer trabalho robótico e passe a focar no que realmente importa: o crescimento estratégico da sua empresa.
+                                    Meu trabalho não é vender teorias, é resolver gargalos operacionais. Como desenvolvedor de sistemas, já estruturei fluxos de automação e introduzi agentes de IA na operação de mais de 20 negócios no Brasil e na Europa, sempre em estrita conformidade com a LGPD, GDPR e normas de proteção de dados. Eu construo a inteligência nos bastidores para que a sua equipe pare de fazer trabalho robótico e passe a focar no que realmente importa: o crescimento estratégico da sua empresa.
                                 </p>
                             </div>
 
